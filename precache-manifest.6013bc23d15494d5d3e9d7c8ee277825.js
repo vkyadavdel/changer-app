@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0a908d170066aee7f8ea",
-    "url": "/changer-app/static/css/main.8d25c18e.chunk.css"
+    "revision": "4a9fc19da5c326c03888",
+    "url": "/changer-app/static/css/main.fbcc1596.chunk.css"
   },
   {
-    "revision": "0a908d170066aee7f8ea",
-    "url": "/changer-app/static/js/main.0a908d17.chunk.js"
+    "revision": "4a9fc19da5c326c03888",
+    "url": "/changer-app/static/js/main.4a9fc19d.chunk.js"
   },
   {
     "revision": "03ae7ea834bbe7645a20",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/changer-app/static/js/runtime~main.f85fb179.js"
   },
   {
-    "revision": "73ce9f4ef70c6d8b20ad7224d4a2c8c5",
+    "revision": "a37cd2c2a9abc5050a154d7a10e5aae4",
     "url": "/changer-app/index.html"
   }
 ];
